@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Ruan </h2>
+<h2 align="left">Olá 👋! meu nome é Ruan/h2>
+
+<p>Meu nome é Ruan e sou um estudante dedicado ao desenvolvimento há aproximadamente um ano. Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas e também dedico meu tempo a cursos livres para aprimorar ainda mais meu conhecimento na área. Sou uma pessoa curiosa por natureza, sempre em busca de novidades e atualizações no mercado de tecnologia.
+Agradeço a oportunidade de compartilhar um pouco sobre minha jornada e estou à disposição para qualquer informação adicional que possa ser útil.</p>
 
 ###
 
@@ -36,6 +39,5 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/<Ruan-Bertin>/<Ruan-Bertin>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
