@@ -1,7 +1,7 @@
-<h2 align="left">Olá 👋! meu nome é Ruan/h2>
+<h2 align="left">Olá 👋! meu nome é Ruan</h2>
 <br/>
   
-<p style="font-size: 14px;">Meu nome é Ruan e sou um estudante dedicado ao desenvolvimento há aproximadamente um ano. Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas e também dedico meu tempo a cursos livres para aprimorar ainda mais meu conhecimento na área. Sou uma pessoa curiosa por natureza, sempre em busca de novidades e atualizações no mercado de tecnologia.
+<p style="font-size: 14px; margin-top: 10px;">Meu nome é Ruan e sou um estudante dedicado ao desenvolvimento há aproximadamente um ano. Atualmente, estou matriculado no curso de Análise e Desenvolvimento de Sistemas e também dedico meu tempo a cursos livres para aprimorar ainda mais meu conhecimento na área. Sou uma pessoa curiosa por natureza, sempre em busca de novidades e atualizações no mercado de tecnologia.
 Agradeço a oportunidade de compartilhar um pouco sobre minha jornada e estou à disposição para qualquer informação adicional que possa ser útil.</p>
 
 ###
@@ -39,6 +39,3 @@ Agradeço a oportunidade de compartilhar um pouco sobre minha jornada e estou à
 ###
 
 <br clear="both">
-
-
-###
