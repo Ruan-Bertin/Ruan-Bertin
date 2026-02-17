@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋! meu nome é Ruan</h2>
 <br/>
   
-<p style="font-size: 14px; margin-top: 10px;">Meu nome é Ruan e sou um estudante dedicado ao desenvolvimento há aproximadamente um ano e meio. Atualmente, estou cursando tecnólogo de Análise e Desenvolvimento de Sistemas e também bacharelado em Ciência de dados. Sou uma pessoa curiosa por natureza, sempre em busca de novidades e atualizações no mercado de tecnologia.
+<p style="font-size: 14px; margin-top: 10px;">Meu nome é Ruan e sou um estudante dedicado a área de dados. Atualmente, estou cursando bacharelado em Ciência de dados. Sou uma pessoa curiosa por natureza, sempre em busca de novidades e atualizações no mercado de tecnologia.
 Agradeço a oportunidade de compartilhar um pouco sobre minha jornada e estou à disposição para qualquer informação adicional que possa ser útil.</p>
 
 ###
